@@ -28,4 +28,3 @@ epic_tragedy[:capulet][:heroine][:status] = "dead"
 
 end
   
-end
